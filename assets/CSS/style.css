@@ -17,6 +17,10 @@ nav {
 a {
    display: inline-block;
    text-decoration: none;
+   color: darkgrey;
+   font-family: sans-serif;
+   padding: 30px;
+   font-size: 20px;
 }
 
 img {
