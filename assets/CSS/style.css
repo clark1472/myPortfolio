@@ -2,11 +2,12 @@
    width: 200px;
    background-color: turquoise;
    color: white;
-   font-size: 30px;
+   font-size: 40px;
    font-weight: bold;
    display: inline;
-   padding: 20px;
+   padding: 30px;
    text-decoration: none;
+   line-height: 80px;
 }
 
 nav {
