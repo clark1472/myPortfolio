@@ -6,6 +6,7 @@
    font-weight: bold;
    display: inline;
    padding: 20px;
+   text-decoration: none;
 }
 
 nav {
@@ -14,6 +15,7 @@ nav {
 
 a {
    display: inline-block;
+   text-decoration: none;
 }
 
 img {
