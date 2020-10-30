@@ -8,6 +8,7 @@
    padding: 30px;
    text-decoration: none;
    line-height: 80px;
+   font-family: serif;
 }
 
 nav {
@@ -31,8 +32,9 @@ img {
 }
 
 section {
-    background-color:lightgrey;
+    background-color: white;
     padding: 30px; 
+    border: 50px solid lightgrey;
 }
 
 .container {
