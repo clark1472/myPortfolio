@@ -54,3 +54,11 @@ footer {
     border-top: 10px solid turquoise;
 }
 
+hr.aboutMeLine {
+    border: 2px solid #e6e6e6;
+}    
+
+hr.myNameLine {
+    border: 2px solid #e6e6e6;
+    margin: 0 !important;
+}
